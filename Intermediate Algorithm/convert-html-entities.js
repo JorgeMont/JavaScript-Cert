@@ -22,6 +22,7 @@ function convertHTML(str) {
 }
 
 
+
 document.getElementById("demo").innerHTML = 
 convertHTML("Dolce & Gabbana");
 console.log(convertHTML("Dolce & Gabbana"));
